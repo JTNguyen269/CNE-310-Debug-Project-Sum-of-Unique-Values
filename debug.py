@@ -1,4 +1,6 @@
 def lone_sum(a, b, c):
+
+    # The line below need to be changed!
     if a >= b:
         return c
     elif a == c:

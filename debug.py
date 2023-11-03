@@ -1,8 +1,5 @@
 def lone_sum(a, b, c):
 
-# Find the sum of all three numbers, a, b, and c.
-
-    total = a + b + c
 
 # verify if all three values are the same. If the condition is true, then return 0.
 
@@ -20,7 +17,7 @@ def lone_sum(a, b, c):
 
 # If none of those conditions are met, the sum of variables a, b, and c should be returned.
 
-    return total
+    return a + b + c
 
 # Examples for testing purposes.
 
